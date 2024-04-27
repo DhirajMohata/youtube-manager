@@ -7,7 +7,6 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Video Demo](#videodemo)
 - [Tech Stack](#techstack)
 - [Key Features](#keyfeatures)
 - [Feedback](#feedback)
